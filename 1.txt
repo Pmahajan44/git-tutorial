@@ -1,2 +1,4 @@
 gittttttttttttttttt
 time 12:12
+
+git pull
